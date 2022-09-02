@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/node": "^18.7.14",
+    "@types/react": "^18.0.18",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
